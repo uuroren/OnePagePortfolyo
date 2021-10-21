@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+}
+#myNavbar{
+    font-size: 17px;
+}
+.darkmode {
+    background-color: #333;
+    color:rgb(255, 255, 255);
+    
+}
+.jumbotron{
+    background-color: rgba(26, 25, 25, 0.782);
+    margin-top: -20px;
+    text-align: center;
+    
+}
+.login-form {
+    width: 480px;
+    margin: 180px auto;
+}
+
+.login-form form {
+    background-color: rgb(247, 247, 247);
+    padding: 30px;
+}
+
+.login-form h2 {
+    margin: 0 0 35px;
+}
+
+.form-control,.btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+
+.btn {
+    font-size: 18px;
+}
+
+#giristext{
+    color: rgb(255, 196, 0);
+}
+#uur{
+  width: 300px;
+  padding: 10px;
+  font-size: 40px;
+  margin: 80px auto;
+  text-align: center;
+  background: -webkit-linear-gradient(#faa200 40%, #d61444 50%, #ba00f3 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;  
+ 
+}
